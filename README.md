@@ -2,4 +2,4 @@
 just a repository
 
 
-Let't start programming!
+Let's start programming!
